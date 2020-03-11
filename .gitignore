@@ -1,0 +1,10 @@
+.dub
+docs.json
+docs/
+mylib.so
+mylib.dylib
+*.o
+*.obj
+*.lst
+*.so
+random_num
